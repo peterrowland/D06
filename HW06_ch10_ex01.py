@@ -25,7 +25,7 @@ def nested_sum(input_list):
 
     return summed
 
-#recursive version? I only got part of this to work.
+# recursive version? I only got part of this to work.
 # def recursive():
 #     if type(input) == list:
 #         for item in input:
