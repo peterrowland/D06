@@ -1,0 +1,27 @@
+Number of names not containing e: 25
+Malavika 
+Nancy 
+Anna 
+Arnav 
+Shannon 
+Natalia 
+Nia 
+Nicolas 
+Nihar 
+Suchismita 
+Vikram 
+Avi 
+Nisha 
+Priyanka 
+Rohit 
+Blanka 
+Carina 
+Lucia 
+Harman 
+Robin 
+Karan 
+Liz 
+Shuting 
+Morgan 
+Mudit 
+Percentage of names not containing e: 73.53%
